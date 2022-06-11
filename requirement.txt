@@ -1,4 +1,4 @@
-apturl==0.5.2
+
 arch==4.15
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
